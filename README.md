@@ -80,4 +80,4 @@ Each finding included metadata such as:
 
 📌 _Want to collaborate, give feedback, or explore AWS security tooling together? Feel free to connect or open an issue on this repo._
 
-# AWS-GuadDuty-Threat-Detection
+
